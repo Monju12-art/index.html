@@ -49,7 +49,7 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 ## Contact
 
-For any questions or feedback, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, you can reach me at isaaclynej@mail.com
 
 ---
 
